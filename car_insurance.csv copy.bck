@@ -9349,7 +9349,7 @@ id,age,gender,driving_experience,education,income,credit_score,vehicle_ownership
 35051,1,0,0-9y,high school,working class,0.2428566469410784,1.0,before 2015,1.0,1.0,10238,11000.0,sedan,0,0,0,0.0
 74669,0,0,0-9y,high school,middle class,0.5790357095035605,1.0,after 2015,0.0,0.0,32765,14000.0,sedan,0,0,0,0.0
 690706,1,0,0-9y,university,upper class,0.5031521219039501,1.0,before 2015,1.0,0.0,32765,9000.0,sedan,0,0,0,1.0
-91353,2,0,20-29y,university,upper class,0.6944020437023601,1.0,after 2015,0.0,1.0,10238,15000.0,sedan  h,1,0,1,0.0
+91353,2,0,20-29y,university,upper class,0.6944020437023601,1.0,after 2015,0.0,1.0,10238,15000.0,sedan,1,0,1,0.0
 344510,3,1,30y+,high school,upper class,0.5484006628894337,1.0,before 2015,1.0,1.0,10238,13000.0,sedan,5,1,4,0.0
 712777,2,0,20-29y,none,upper class,0.685731574404338,1.0,before 2015,1.0,1.0,10238,12000.0,sedan,1,0,4,0.0
 480812,1,0,10-19y,high school,middle class,0.4535732582122292,1.0,after 2015,1.0,1.0,10238,9000.0,sedan,1,0,2,0.0
